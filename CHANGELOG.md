@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Adds
+
+* added new strings for the Slovak translation in the SK.json file in i18n folder
+
 ### Fixes
 
 * Decodes the testReq `param` property in `serveNotFound`. This fixes a problem where page titles using diacritics triggered false 404 errors.
